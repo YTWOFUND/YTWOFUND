@@ -3,4 +3,4 @@
 <h2 align="center">ℍ𝕖𝕣𝕖 𝕪𝕠𝕦 𝕨𝕚𝕝𝕝 𝕗𝕚𝕟𝕕 𝕚𝕟𝕤𝕥𝕒𝕝𝕝𝕒𝕥𝕚𝕠𝕟 𝕘𝕦𝕚𝕕𝕖𝕤 𝕗𝕠𝕣 𝕥𝕙𝕖 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕨𝕖 𝕒𝕣𝕖 𝕚𝕟𝕧𝕠𝕝𝕧𝕖𝕕 𝕚𝕟.</h3>
 
 
-[Shardeum](https://github.com/YTWOFUND/Shardeum)    |   [Gear](https://github.com/YTWOFUND/Gear)    |   [Massa](https://github.com/YTWOFUND/Massa)    |   [Lava](https://github.com/YTWOFUND/Lava)
+[Shardeum](https://github.com/YTWOFUND/Shardeum)    |   [Gear](https://github.com/YTWOFUND/Gear)    |   [Massa](https://github.com/YTWOFUND/Massa)    |   [Lava](https://github.com/YTWOFUND/Lava)    |   [Nibiru](https://github.com/YTWOFUND/Nibiru)
