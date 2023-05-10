@@ -4,3 +4,6 @@
 
 
 [Shardeum](https://github.com/YTWOFUND/Shardeum)    |   [Gear](https://github.com/YTWOFUND/Gear)    |   [Massa](https://github.com/YTWOFUND/Massa)    |   [Lava](https://github.com/YTWOFUND/Lava)    |   [Nibiru](https://github.com/YTWOFUND/Nibiru)    |   [Subspace](https://github.com/YTWOFUND/Subspace)    |  [Taiko](https://github.com/YTWOFUND/Taiko)
+
+## Projects services: 
+[Canto](https://github.com/YTWOFUND/Canto-service#-canto-servicepeer------rpc------grpc-------snapshot------state-sync)
