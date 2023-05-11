@@ -7,3 +7,5 @@
 
 ## Services for projects in mainnet: 
 [Canto](https://github.com/YTWOFUND/Canto-service)   |   [Crescent](https://github.com/YTWOFUND/Crescent-service)   |   [PersistenceCore](https://github.com/YTWOFUND/PersistenceCore-service)
+
+## Services for projects in testnet:
