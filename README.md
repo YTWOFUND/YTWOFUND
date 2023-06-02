@@ -9,4 +9,4 @@
 [Canto](https://github.com/YTWOFUND/Canto-service)   |   [Crescent](https://github.com/YTWOFUND/Crescent-service)   |   [PersistenceCore](https://github.com/YTWOFUND/PersistenceCore-service)    |   [Quicksilver](https://github.com/YTWOFUND/Quicksilver-service/blob/main/README.md)
 
 ## Services for projects in testnet:
-[PersistenceCore](https://github.com/YTWOFUND/PersistenceCore-service/blob/main/PersistenceCoreTestnet/README.md)   |   [Quicksilver](https://github.com/YTWOFUND/Quicksilver-service/blob/main/Quicksilver%20Testnet/README.md)
+[PersistenceCore](https://github.com/YTWOFUND/PersistenceCore-service/blob/main/PersistenceCoreTestnet/README.md)   |   [Quicksilver](https://github.com/YTWOFUND/Quicksilver-service/blob/main/Quicksilver%20Testnet/README.md)    |   [Nibiru](https://github.com/YTWOFUND/NibiruTest-Service.md/blob/main/README.md)
